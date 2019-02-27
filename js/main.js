@@ -56,11 +56,11 @@ jQuery(document).ready(function( $ ) {
 
   // Python Chart
   var doughnutData = [{
-    value: 40,
+    value: 20,
     color: "#1abc9c"
   },
   {
-    value: 60,
+    value: 80,
     color: "#ecf0f1"
   }
   ];
@@ -68,11 +68,11 @@ jQuery(document).ready(function( $ ) {
 
   // Angular Chart
   var doughnutData = [{
-    value: 20,
+    value: 40,
     color: "#1abc9c"
   },
   {
-    value: 80,
+    value: 60,
     color: "#ecf0f1"
   }
   ];
